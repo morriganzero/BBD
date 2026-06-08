@@ -1,0 +1,11 @@
+<mainpage-leftcolumn-start />
+<!--The code you see using the source editor is used to insert all the content inside the left and right columns. Please don't remove it from the Main Page because it's the optimal main page structure, and accommodates the main page ad. -->
+This wiki aims to document all known information about Big Bad Dogs and serve as a resource for fans of the visual novel.
+
+Welcome to the '''{{SITENAME}}'''! We're a collaborative community about {{topic}} created by fans and for fans like you! This wiki is an online encyclopedia which [[w:Help:Editing|anyone can edit]] and contribute to, [[Special:CreatePage|creating a new page]] or [[Special:AllPages|improving an existing one]]. If you're new and don't know where to start, feel free to reach out to one of our [[Special:ListUsers/sysop|administrators]] or check out [[w:Help:Getting Started|these Fandom help pages]]! 
+
+This page was created on June 7, 2026, at 19:00 PM (UTC-5)
+
+
+<includeonly><div style="background-color: transparent; display: inline-block; border-radius: 3px; padding: 3px; width: 100px; position: relative;">[[File:{{{image}}}|100px|link={{{article}}}]][[{{{article}}}|<span style="background-color:#8b78a1; position: absolute; right: 0px; bottom: 0px; font-size: x-small; font-weight: bold; color: white; padding: 0 5px; border-radius: 5px 0;">{{{name}}}</span>]]</div></includeonly>
+<noinclude>[[Category:Templates]]</noinclude>
